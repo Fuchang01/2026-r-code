@@ -1,0 +1,1 @@
+This repository was created as a personal practice project in preparation for the 2026 Master's program application.
